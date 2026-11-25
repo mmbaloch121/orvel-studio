@@ -1,0 +1,7 @@
+:root{--ink:#0A0F1F;--deep:#1E2C66;--gold:#CFAE72;--paper:#F3F4F8;--muted:#4a5270}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.65 Manrope,system-ui,-apple-system,"Segoe UI",sans-serif}
+header{background:var(--ink);color:var(--paper);padding:48px 16px 40px}header .w{max-width:720px;margin:auto}
+header a{color:var(--gold);text-decoration:none;font-weight:700}h1{font-size:2.2rem;line-height:1.2;margin:.4em 0 .2em}
+main{max-width:720px;margin:auto;padding:32px 16px 64px}h2{color:var(--deep);font-size:1.25rem;margin-top:2em}
+a{color:var(--deep)}footer{max-width:720px;margin:auto;padding:0 16px 40px;color:var(--muted);font-size:.9rem}
+ul{padding-left:1.2em}code{background:#e4e6ef;padding:1px 5px;border-radius:4px;font-size:.9em}
